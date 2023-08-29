@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Carol-88/portfolio-v2.git"
+    "url": "git+ssh://git@github.com:Carol-88/portfolio-caroldev.git"
   },
   "author": "Carolina Romero",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Carol-88/portfolio-v2/issues"
+    "url": "https://github.com/Carol-88/portfolio-caroldev/issues"
   },
-  "homepage": "https://github.com/Carol-88/portfolio-v2#readme",
+  "homepage": "https://github.com/Carol-88/portfolio-caroldev#readme",
   "dependencies": {
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
