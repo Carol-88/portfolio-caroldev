@@ -15,6 +15,7 @@ app.use(bodyParser.json());
 app.use(cors());
 app.use(express.static(path.join(__dirname, "docs")));
 
+
 // Configura el transporte para enviar correos
 const transporter = nodemailer.createTransport({
     service: "Gmail",
